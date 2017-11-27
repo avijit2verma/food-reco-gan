@@ -7,6 +7,7 @@ The repository contains -
 2. Research on Generative Adversarial Networks(GANs) that I read and loved.
 3. Code in Python.
 4. Project Reports.
+5. Papers in the general area of deep learning.
 
 I will keep on updating the repository as and when I have new updates.
 
